@@ -1,0 +1,10 @@
+torch==2.0.1
+torchvision==0.15.2
+lightning==2.0.7
+ultralytics==8.0.157
+pybboxes==0.1.6
+compressai==1.2.4
+pillow_heif==0.13.0
+facenet_pytorch==2.5.3
+msgpack==1.0.5
+websockets==10.4

@@ -1,0 +1,9 @@
+.venv
+**/*.pt
+**/*.zip
+**/*.odgt
+**/__pycache__
+data
+out
+weights
+lightning_logs

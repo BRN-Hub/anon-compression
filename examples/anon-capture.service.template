@@ -1,0 +1,14 @@
+[Unit]
+Description=anon-compression network capture
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+WorkingDirectory=FIXME
+ExecStart=FIXME
+
+Restart=on-failure
+ProtectSystem=strict
+
+[Install]
+WantedBy=multi-user.target
