@@ -8,3 +8,4 @@ pillow_heif==0.13.0
 facenet_pytorch==2.5.3
 msgpack==1.0.5
 websockets==10.4
+gdown
