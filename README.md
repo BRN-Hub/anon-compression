@@ -4,8 +4,8 @@ This is the public repository of the [paper](https://arxiv.org/abs/2406.05726#) 
 The original code has been reduced to a minimal wokring example for read- and usability, that achieves the same results.
 
 > [!NOTE]
-> The `master` branch marks the state of the code as the paper was submitted.
-> Updated dependencies are used on `devel`; Without guaranteed bit-by-bit reproducibility compared to `master`.
+> The `main` branch marks the state of the code as the paper was submitted.
+> Updated dependencies are used on `devel`; Without guaranteed bit-by-bit reproducibility compared to `main`.
 
 > [!IMPORTANT]
 > Scripts are expected to be executed from the root-directory of this repository.
