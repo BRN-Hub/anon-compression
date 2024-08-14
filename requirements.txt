@@ -1,5 +1,5 @@
-torch==2.0.1
-torchvision==0.15.2
+torch==2.*
+torchvision
 lightning==2.0.7
 ultralytics==8.0.157
 pybboxes==0.1.6

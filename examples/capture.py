@@ -43,6 +43,7 @@ for idx in capture_paths:
     if not ret:
         print(f"Reading camera {idx} failed")
         exit(1)
+    cap.set(cv.CAP_PROP_AUTO_EXPOSURE, 1.0) 
     captures.append(cap)
     max_frame_dimension = max(max_frame_dimension, *frame.shape[:2])
 
