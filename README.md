@@ -1,9 +1,14 @@
 # Region of Interest Loss for Anonymizing Image Compression
 
-This is the public repository of the paper [FIXME].
+This is the public repository of the [paper](https://arxiv.org/abs/2406.05726#) accepted to IEEE CASE 2024.
 The original code has been reduced to a minimal wokring example for read- and usability, that achieves the same results.
 
-**Scripts are expected to be executed from the root-directory of this repository.**
+> [!NOTE]
+> The `master` branch marks the state of the code as the paper was submitted.
+> Updated dependencies are used on `devel`; Without guaranteed bit-by-bit reproducibility compared to `master`.
+
+> [!IMPORTANT]
+> Scripts are expected to be executed from the root-directory of this repository.
 
 ## Quick start
 
