@@ -1,7 +1,5 @@
 # Region of Interest Loss for Anonymizing Image Compression
 
-https://github.com/user-attachments/assets/a2bc4a8d-5b0b-439b-bf4c-b57d0498f6d3
-
 This is the public repository of the [paper](https://arxiv.org/abs/2406.05726#) accepted to IEEE CASE 2024.
 The original code has been reduced to a minimal wokring example for read- and usability, that achieves the same results.
 
@@ -11,6 +9,8 @@ The original code has been reduced to a minimal wokring example for read- and us
 
 > [!IMPORTANT]
 > Scripts are expected to be executed from the root-directory of this repository.
+
+https://github.com/user-attachments/assets/a2bc4a8d-5b0b-439b-bf4c-b57d0498f6d3
 
 ## Quick start
 
