@@ -4,7 +4,7 @@
 
 This is the public repository of the corresponding paper published in the conference proceedings IEEE CASE 2024.
 The original code has been reduced to a minimal wokring example for read- and usability, that achieves the same results.
-If you find this to be useful for your work, please cite it as follows:
+If you find it to be useful for your work, please cite it as follows:
 
 ```bibtex
 @inproceedings{liebender2024region,
