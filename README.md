@@ -4,6 +4,18 @@
 
 This is the public repository of the corresponding paper published in the conference proceedings IEEE CASE 2024.
 The original code has been reduced to a minimal wokring example for read- and usability, that achieves the same results.
+If you find this to be useful for your work, please cite it as follows:
+
+```bibtex
+@inproceedings{liebender2024region,
+  author    = {Liebender, Christoph and Bezerra, Ranulfo and Ohno, Kazunori and Tadokoro, Satoshi},
+  booktitle = {2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)}, 
+  title     = {{Region of Interest Loss for Anonymizing Learned Image Compression}}, 
+  year      = {2024},
+  pages     = {3569--3576},
+  doi       = {10.1109/CASE59546.2024.10711721}
+}
+```
 
 > [!NOTE]
 > The `main` branch marks the state of the code as the paper was submitted.
