@@ -1,6 +1,8 @@
 # Region of Interest Loss for Anonymizing Image Compression
 
-This is the public repository of the [paper](https://arxiv.org/abs/2406.05726#) accepted to IEEE CASE 2024.
+**[[arXiv](https://arxiv.org/abs/2406.05726#)] [[IEEEXplore](https://ieeexplore.ieee.org/document/10711721)]**
+
+This is the public repository of the corresponding paper published in the conference proceedings IEEE CASE 2024.
 The original code has been reduced to a minimal wokring example for read- and usability, that achieves the same results.
 
 > [!NOTE]
